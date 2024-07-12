@@ -7,3 +7,21 @@ reset
     padding: 0;
     box-sizing: border-box;
 }
+
+
+/* header  */
+
+.bgBlue {
+    background-color: #083590;
+    height: 54px;
+}
+
+.logoRyanair {
+    width: 200px;
+}
+
+/* main  */
+
+main {
+    height: calc(100vh - 54px);
+}
