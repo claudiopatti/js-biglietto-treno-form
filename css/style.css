@@ -13,15 +13,19 @@ reset
 
 .bgBlue {
     background-color: #083590;
-    height: 54px;
+    
 }
 
-.logoRyanair {
-    width: 200px;
+.bgLightgreen {
+    background-color: #4285f4;
+}
+
+.rowResultTicket {
+    min-height: 150px;
 }
 
 /* main  */
 
 main {
-    height: calc(100vh - 54px);
+    height: calc(100vh - 90px);
 }
